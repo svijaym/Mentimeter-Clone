@@ -1,4 +1,4 @@
-# Mentimeter-Clone![Mentimeter](https://user-images.githubusercontent.com/101625055/200118139-f615ff72-ee23-4c4d-95d5-53836ced9d23.png)
+# Mentimeter-Clone
 This is clone of mentimeter website , Mentimeter is a website that develops and maintains an eponymous app used to create presentations with real-time feedback
 # Landing Page
 ![Screenshot (153)](https://user-images.githubusercontent.com/101625055/205663487-953658ad-8940-4ec5-86fd-9c898269c6e5.png)
